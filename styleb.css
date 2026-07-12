@@ -1,0 +1,44 @@
+<!-- Part 5 -->
+
+<section id="finalLove" class="page">
+
+<h1>💖 A Special Message From Harshuu 💖</h1>
+
+<p class="loveMessage">
+Happy Birthday, My Love ❤️<br><br>
+
+You are the most beautiful blessing in my life.
+Every smile of yours makes my day brighter.
+Thank you for always being there for me.
+
+I pray that all your dreams come true and your life is filled with happiness, love, success, and endless smiles.
+
+No matter what happens, I'll always care about you and cherish every moment we share.
+
+Happy Birthday once again, my princess. ❤️
+</p>
+
+<h2>🌹 Can You Answer These? 🌹</h2>
+
+<p>1. Did you like this surprise?</p>
+<input type="text" placeholder="Type your answer here">
+
+<p>2. What was your favourite part?</p>
+<input type="text" placeholder="Your answer">
+
+<p>3. Will you always keep smiling?</p>
+<input type="text" placeholder="Your answer">
+
+<p>4. What's your birthday wish?</p>
+<input type="text" placeholder="Your answer">
+
+<p>5. Can I always be your Harshuu? ❤️</p>
+<input type="text" placeholder="Your answer">
+
+<br><br>
+
+<button onclick="alert('Thank you for answering ❤️\nForever Yours,\nHarshuu ❤️')">
+💌 Send My Answers
+</button>
+
+</section>
