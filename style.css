@@ -81,6 +81,35 @@ margin-bottom:40px;
 
 button{
 padding:16px 45px;
+  .loveMessage{
+max-width:700px;
+margin:auto;
+font-size:22px;
+line-height:1.8;
+padding:20px;
+}
+
+input{
+width:90%;
+max-width:500px;
+padding:12px;
+margin:10px;
+border-radius:10px;
+border:none;
+font-size:18px;
+}
+
+#finalLove h1{
+font-size:45px;
+color:#ff4d88;
+margin-bottom:20px;
+}
+
+#finalLove h2{
+margin-top:30px;
+margin-bottom:20px;
+}
+
   
 font-size:20px;
 border:none;
