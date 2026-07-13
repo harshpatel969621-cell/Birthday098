@@ -240,13 +240,3 @@ function animateFireworks() {
 animateFireworks();
 
 setInterval(createFirework, 1200);
-
-const openBtn = document.getElementById("openBtn");
-const bgMusic = document.getElementById("bgMusic");
-
-openBtn.addEventListener("click", () => {
-    bgMusic.volume = 0.6;
-    bgMusic.play().catch(error => {
-        console.log("Music couldn't start:", error);
-    });
-});
