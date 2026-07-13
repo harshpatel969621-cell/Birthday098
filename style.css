@@ -3,6 +3,10 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
+<audio id="bgMusic" loop>
+    <source src="heeriye.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 
 html{
 scroll-behavior:smooth;
